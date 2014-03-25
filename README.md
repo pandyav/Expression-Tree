@@ -15,4 +15,4 @@ and draw a GUI expression binary tree. Also performed is automated unit testing 
 
 *executable file is attached
 
-*see ScreenShot.jpg for UI
+*see Screen.jpg for UI
